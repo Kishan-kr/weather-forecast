@@ -22,6 +22,9 @@ This is a web application that provides weather forecasts for both the current l
 
 - **CSS**: Styling is done using CSS for a clean and responsive design.
 
+## Live Site
+[View live](https://kishan-kr.github.io/weather-forecast/)
+
 ## Acknowledgements
 
 - Thanks to OpenWeatherMap for providing the weather data and API.
