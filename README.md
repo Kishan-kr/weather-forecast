@@ -4,6 +4,7 @@
 
 This is a web application that provides weather forecasts for both the current location and any searched location. It's built using React and utilizes data from the OpenWeatherMap API. With this application, users can quickly access weather information, helping them plan their activities accordingly.
 
+![screenshot](weatherForecast.svg)
 
 ## Features
 
